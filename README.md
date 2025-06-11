@@ -69,7 +69,6 @@ Projeto desenvolvido por:
 - Matheus Francisco da Silva Barbosa
 - Mayara Caroline Alves Pereira
 - Vinicius Peixoto Morais
-- 
 ---
 
 ## ✨ Contribuições
