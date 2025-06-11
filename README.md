@@ -71,7 +71,8 @@ Projeto desenvolvido por:
 - Vinicius Peixoto Morais
 - 
 ---
- ## ✨ Contribuições
+
+## ✨ Contribuições
 
 Contribuições são super bem-vindas! 💜
 
