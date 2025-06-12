@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico com o objetiv
 
 ---
 
-## 💡 Objetivo
+##💡 Objetivo
 
 Criar uma solução tecnológica que permita:
 
@@ -18,11 +18,17 @@ Criar uma solução tecnológica que permita:
 
 ## 🧠 Tecnologias Utilizadas
 
-- **Python** (migração e tratamento de dados)
-- **MySQL** (estruturação e armazenamento)
-- **Excel** (fonte dos dados brutos)
-- **SQL** (consultas e análises)
-- **Dashboards interativos** (tecnologia à escolha do time)
+- **[Python](https://www.python.org/)** – linguagem principal  
+- **[Streamlit](https://streamlit.io/)** – criação do painel web  
+- **[Pandas](https://pandas.pydata.org/)** – manipulação de dados  
+- **[Plotly Express](https://plotly.com/python/plotly-express/)** – gráficos interativos  
+- **[ReportLab](https://www.reportlab.com/)** – geração de arquivos PDF  
+- **[SQLAlchemy](https://www.sqlalchemy.org/)** – conexão com banco de dados  
+- **[MySQL](https://www.mysql.com/)** – sistema de gerenciamento do banco de dados utilizado  
+- **[Base64](https://docs.python.org/3/library/base64.html)** – codificação para download  
+- **[Datetime](https://docs.python.org/3/library/datetime.html)** – manipulação de datas  
+- **[os](https://docs.python.org/3/library/os.html)** – manipulação de variáveis de ambiente e arquivos  
+
 
 ---
 
